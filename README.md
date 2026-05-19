@@ -4,6 +4,7 @@ Pre-flight risk and compliance intelligence for commercial drone fleets—especi
 
 ## What this repo contains
 
+PRD &
 Planning and build specs for AeroGuard (software-first MVP; no flight control or hardware):
 
 | Document | Purpose |
